@@ -15,5 +15,4 @@
 
 ## 🖊 Contato
 
-estranhozn@gmail.com
-https://instagram.com/sr.musashi?igshid=ZDdkNTZiNTM=
+paulo.viana22@etec.sp.gov.br

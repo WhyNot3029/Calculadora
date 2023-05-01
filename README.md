@@ -2,17 +2,17 @@
 
 ![preview](./.github/preview.png)
 
->Video Aula
+>Video Lessons
 
 [Clique aqui para acessar](https://whynot3029.github.io/Calculadora/)
 
-## 🛠 Tecnologias
+## 🛠 Technology
 
 - HTML
 - CSS
 - JAVASCRIPT
 - GIT E GITHUB
 
-## 🖊 Contato
+## 🖊 Contact
 
 paulo.viana22@etec.sp.gov.br
